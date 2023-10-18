@@ -1,0 +1,2 @@
+pe0047() = {n2=1;while(omega(n2)<2||omega(n2+1)<2,n2=n2+1);n3=n2+1;while(omega(n3)<3||omega(n3+1)<3||omega(n3+2)<3,n3=n3+1);n4=n3+2;while(omega(n4)<4||omega(n4+1)<4||omega(n4+2)<4||omega(n4+3)<4,n4=n4+1);return(n4);}
+pe0047()

@@ -1,0 +1,2 @@
+is2BasesPalindrome(n)= {my(n10=digits(n), n2=digits(n,2)); for(i=1, #n10\2, if(n10[i]!=n10[#n10+1-i], return(0))); for(i=1, #n2\2, if(n2[i]!=n2[#n2+1-i], return(0))); return(1)}
+sum(i=1,10^6, if(is2BasesPalindrome(i),i))

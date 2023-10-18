@@ -1,0 +1,1 @@
+{i=0;while(fibonacci(i++)<10^999,);i}

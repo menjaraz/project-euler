@@ -1,0 +1,1 @@
+answer=fromdigits(digits(vecsum(readvec("numbers.txt")))[1..10])
