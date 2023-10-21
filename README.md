@@ -4,4 +4,6 @@
 
 The **Must know** for every _Math Lover_ especially for _Number Theory_...
 
+I always have _PariDroid_ within the reach of my hand wherever I go 💙
+
 [The PARI/GP website](https://pari.math.u-bordeaux.fr/)
